@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { createUserWithEmailAndPassword } from "firebase/auth";
+import { createUserWithEmailAndPassword } from 'firebase/auth';
 
 import FormInput from './../form-input/form-input.component';
 import CustomButton from './../custom-button/custom-button.component';
